@@ -1,0 +1,242 @@
+[
+  {
+    "assessment_name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Coding"
+  },
+  {
+    "assessment_name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "Frontend Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/frontend-developer/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "40 minutes",
+    "test_type": "UI/UX"
+  },
+  {
+    "assessment_name": "Python Programming Challenge",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-challenge/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "50 minutes",
+    "test_type": "Coding"
+  },
+  {
+    "assessment_name": "Full Stack Developer Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/full-stack-sim/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "75 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "C++ Developer Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cpp-test/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "JavaScript Coding Task",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/js-coding-task/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "35 minutes",
+    "test_type": "Coding"
+  },
+  {
+    "assessment_name": "Data Analyst Skills Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analyst/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "60 minutes",
+    "test_type": "Analytics"
+  },
+  {
+    "assessment_name": "SQL for Data Analysis",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-data/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "45 minutes",
+    "test_type": "Analytics"
+  },
+  {
+    "assessment_name": "React Developer Challenge",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/react-challenge/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "UI/UX"
+  },
+  {
+    "assessment_name": "Angular UI Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-ui/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "50 minutes",
+    "test_type": "UI/UX"
+  },
+  {
+    "assessment_name": "Leadership Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-potential/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Personality"
+  },
+  {
+    "assessment_name": "Verbal Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "20 minutes",
+    "test_type": "Aptitude"
+  },
+  {
+    "assessment_name": "Logical Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/logical-reasoning/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "25 minutes",
+    "test_type": "Aptitude"
+  },
+  {
+    "assessment_name": "Numerical Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Aptitude"
+  },
+  {
+    "assessment_name": "Project Manager Evaluation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-manager/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "50 minutes",
+    "test_type": "Business"
+  },
+  {
+    "assessment_name": "Sales Competency Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Business"
+  },
+  {
+    "assessment_name": "Customer Service Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "35 minutes",
+    "test_type": "Personality"
+  },
+  {
+    "assessment_name": "Product Manager Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/product-manager/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "55 minutes",
+    "test_type": "Business"
+  },
+  {
+    "assessment_name": "Cloud Computing Skills Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-skills/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "DevOps Practitioner Evaluation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-eval/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "70 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "Cybersecurity Awareness Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-awareness/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "Linux Administration Quiz",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-admin/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "45 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "Networking Fundamentals Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/network-fundamentals/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "50 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "Android Development Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-dev/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "UI/UX"
+  },
+  {
+    "assessment_name": "iOS Development Challenge",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ios-dev/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "50 minutes",
+    "test_type": "UI/UX"
+  },
+  {
+    "assessment_name": "AI/ML Fundamentals Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-ml-test/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "ETL Developer Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "50 minutes",
+    "test_type": "Analytics"
+  },
+  {
+    "assessment_name": "Git and Version Control Quiz",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/git-control/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Technical"
+  },
+  {
+    "assessment_name": "Agile & Scrum Master Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-scrum/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Business"
+  }
+]
