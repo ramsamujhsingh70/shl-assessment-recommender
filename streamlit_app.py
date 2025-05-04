@@ -66,8 +66,8 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("Crafted by **Ram Samujh Singh**")
 
-# API endpoint
-API_URL = "http://127.0.0.1:8000/recommend"
+# API endpoint (Updated to public URL)
+API_URL = "https://shl-assessment-recommender-0btf.onrender.com/recommend"  # Updated with the actual backend URL
 
 # Helper functions
 def fetch_recommendations(query):
