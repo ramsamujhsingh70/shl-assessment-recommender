@@ -91,3 +91,8 @@ def recommend(query: str = Query(..., min_length=3)):
     # Build the response
     results = [generate_recommendation(slug) for slug in selected_slugs]
     return {"results": results}
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to the SHL Assessment Recommender API"}
