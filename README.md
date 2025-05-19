@@ -107,13 +107,7 @@ Built by Ram Samujh Singh
 📄 License
 MIT License — use freely and improve it!
 
-yaml
-Copy
-Edit
 
----
-
-Would you like me to fill in your actual **Streamlit app URL** in the README before you copy it?
 
 
 
